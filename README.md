@@ -10,6 +10,16 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/cyao2q/heroku-vless-1/tree/master)
 
+## 一键部署失效解决方法
+
+a.fork本代码后，在github里设置为私有，然后绑定你的github到heroku部署使用，推荐这种方式。
+
+b.也可以fork代码后，修改cyao2q为自己，通过链接部署。
+
+https://dashboard.heroku.com/new?template=https://github.com/cyao2q/heroku-vless-1/tree/master
+
+免费服务，且用且珍惜。
+
 ## 注意
 
 Address: yourAppName.herokuapp.com   
