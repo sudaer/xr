@@ -16,7 +16,7 @@ a.fork本代码后，在github里设置为私有，然后绑定你的github到he
 
 b.也可以fork代码后，修改cyao2q为自己，通过链接部署。
 
-https://dashboard.heroku.com/new?template=https://github.com/cyao2q/heroku-vless-v2ray.git
+https://dashboard.heroku.com/new?template=https://github.com/sudaer/xr.git
 
 免费服务，且用且珍惜。
 
